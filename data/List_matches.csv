@@ -1,0 +1,308 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes,Season
+1.0,Fri,2024-08-23,20:30,Gladbach,,,,Leverkusen,,Stadion im Borussia-Park,,Head-to-Head,,2025
+1.0,Sat,2024-08-24,15:30,Mainz 05,,,,Union Berlin,,Mewa Arena,,Head-to-Head,,2025
+1.0,Sat,2024-08-24,15:30,Augsburg,,,,Werder Bremen,,WWK Arena,,Head-to-Head,,2025
+1.0,Sat,2024-08-24,15:30,Freiburg,,,,Stuttgart,,Europa-Park Stadion,,Head-to-Head,,2025
+1.0,Sat,2024-08-24,15:30,Hoffenheim,,,,Holstein Kiel,,PreZero Arena,,Head-to-Head,,2025
+1.0,Sat,2024-08-24,15:30,RB Leipzig,,,,Bochum,,Red Bull Arena,,Head-to-Head,,2025
+1.0,Sat,2024-08-24,18:30,Dortmund,,,,Eint Frankfurt,,Signal Iduna Park,,Head-to-Head,,2025
+1.0,Sun,2024-08-25,15:30,Wolfsburg,,,,Bayern Munich,,Volkswagen Arena,,Head-to-Head,,2025
+1.0,Sun,2024-08-25,17:30,St. Pauli,,,,Heidenheim,,Millerntor-Stadion,,Head-to-Head,,2025
+,,,,,,,,,,,,,,2025
+2.0,Fri,2024-08-30,20:30,Union Berlin,,,,St. Pauli,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+2.0,Sat,2024-08-31,15:30,Werder Bremen,,,,Dortmund,,Weserstadion,,Head-to-Head,,2025
+2.0,Sat,2024-08-31,15:30,Eint Frankfurt,,,,Hoffenheim,,Deutsche Bank Park,,Head-to-Head,,2025
+2.0,Sat,2024-08-31,15:30,Stuttgart,,,,Mainz 05,,MHPArena,,Head-to-Head,,2025
+2.0,Sat,2024-08-31,15:30,Holstein Kiel,,,,Wolfsburg,,Holstein-Stadion,,Head-to-Head,,2025
+2.0,Sat,2024-08-31,15:30,Bochum,,,,Gladbach,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+2.0,Sat,2024-08-31,18:30,Leverkusen,,,,RB Leipzig,,BayArena,,Head-to-Head,,2025
+2.0,Sun,2024-09-01,15:30,Heidenheim,,,,Augsburg,,Voith-Arena,,Head-to-Head,,2025
+2.0,Sun,2024-09-01,17:30,Bayern Munich,,,,Freiburg,,Allianz Arena,,Head-to-Head,,2025
+3.0,Fri,2024-09-13,20:30,Dortmund,,,,Heidenheim,,Signal Iduna Park,,Head-to-Head,,2025
+3.0,Sat,2024-09-14,15:30,RB Leipzig,,,,Union Berlin,,Red Bull Arena,,Head-to-Head,,2025
+3.0,Sat,2024-09-14,15:30,Gladbach,,,,Stuttgart,,Stadion im Borussia-Park,,Head-to-Head,,2025
+3.0,Sat,2024-09-14,15:30,Freiburg,,,,Bochum,,Europa-Park Stadion,,Head-to-Head,,2025
+3.0,Sat,2024-09-14,15:30,Wolfsburg,,,,Eint Frankfurt,,Volkswagen Arena,,Head-to-Head,,2025
+3.0,Sat,2024-09-14,15:30,Hoffenheim,,,,Leverkusen,,PreZero Arena,,Head-to-Head,,2025
+3.0,Sat,2024-09-14,18:30,Holstein Kiel,,,,Bayern Munich,,Holstein-Stadion,,Head-to-Head,,2025
+3.0,Sun,2024-09-15,15:30,Augsburg,,,,St. Pauli,,WWK Arena,,Head-to-Head,,2025
+3.0,Sun,2024-09-15,17:30,Mainz 05,,,,Werder Bremen,,Mewa Arena,,Head-to-Head,,2025
+4.0,Fri,2024-09-20,20:30,Augsburg,,,,Mainz 05,,WWK Arena,,Head-to-Head,,2025
+4.0,Sat,2024-09-21,15:30,Heidenheim,,,,Freiburg,,Voith-Arena,,Head-to-Head,,2025
+4.0,Sat,2024-09-21,15:30,Union Berlin,,,,Hoffenheim,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+4.0,Sat,2024-09-21,15:30,Bochum,,,,Holstein Kiel,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+4.0,Sat,2024-09-21,15:30,Werder Bremen,,,,Bayern Munich,,Weserstadion,,Head-to-Head,,2025
+4.0,Sat,2024-09-21,18:30,Eint Frankfurt,,,,Gladbach,,Deutsche Bank Park,,Head-to-Head,,2025
+4.0,Sun,2024-09-22,15:30,Leverkusen,,,,Wolfsburg,,BayArena,,Head-to-Head,,2025
+4.0,Sun,2024-09-22,17:30,Stuttgart,,,,Dortmund,,MHPArena,,Head-to-Head,,2025
+4.0,Sun,2024-09-22,19:30,St. Pauli,,,,RB Leipzig,,Millerntor-Stadion,,Head-to-Head,,2025
+5.0,Fri,2024-09-27,20:30,Dortmund,,,,Bochum,,Signal Iduna Park,,Head-to-Head,,2025
+5.0,Sat,2024-09-28,15:30,RB Leipzig,,,,Augsburg,,Red Bull Arena,,Head-to-Head,,2025
+5.0,Sat,2024-09-28,15:30,Gladbach,,,,Union Berlin,,Stadion im Borussia-Park,,Head-to-Head,,2025
+5.0,Sat,2024-09-28,15:30,Freiburg,,,,St. Pauli,,Europa-Park Stadion,,Head-to-Head,,2025
+5.0,Sat,2024-09-28,15:30,Wolfsburg,,,,Stuttgart,,Volkswagen Arena,,Head-to-Head,,2025
+5.0,Sat,2024-09-28,15:30,Mainz 05,,,,Heidenheim,,Mewa Arena,,Head-to-Head,,2025
+5.0,Sat,2024-09-28,18:30,Bayern Munich,,,,Leverkusen,,Allianz Arena,,Head-to-Head,,2025
+5.0,Sun,2024-09-29,15:30,Holstein Kiel,,,,Eint Frankfurt,,Holstein-Stadion,,Head-to-Head,,2025
+5.0,Sun,2024-09-29,17:30,Hoffenheim,,,,Werder Bremen,,PreZero Arena,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Stuttgart,,,,Hoffenheim,,MHPArena,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Eint Frankfurt,,,,Bayern Munich,,Deutsche Bank Park,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,St. Pauli,,,,Mainz 05,,Millerntor-Stadion,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Union Berlin,,,,Dortmund,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Heidenheim,,,,RB Leipzig,,Voith-Arena,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Werder Bremen,,,,Freiburg,,Weserstadion,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Leverkusen,,,,Holstein Kiel,,BayArena,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Augsburg,,,,Gladbach,,WWK Arena,,Head-to-Head,,2025
+6.0,Sat,2024-10-05,,Bochum,,,,Wolfsburg,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Mainz 05,,,,RB Leipzig,,Mewa Arena,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Leverkusen,,,,Eint Frankfurt,,BayArena,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Freiburg,,,,Augsburg,,Europa-Park Stadion,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Dortmund,,,,St. Pauli,,Signal Iduna Park,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Holstein Kiel,,,,Union Berlin,,Holstein-Stadion,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Hoffenheim,,,,Bochum,,PreZero Arena,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Bayern Munich,,,,Stuttgart,,Allianz Arena,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Wolfsburg,,,,Werder Bremen,,Volkswagen Arena,,Head-to-Head,,2025
+7.0,Sat,2024-10-19,,Gladbach,,,,Heidenheim,,Stadion im Borussia-Park,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Stuttgart,,,,Holstein Kiel,,MHPArena,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Bochum,,,,Bayern Munich,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Augsburg,,,,Dortmund,,WWK Arena,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,St. Pauli,,,,Wolfsburg,,Millerntor-Stadion,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Werder Bremen,,,,Leverkusen,,Weserstadion,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Union Berlin,,,,Eint Frankfurt,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Mainz 05,,,,Gladbach,,Mewa Arena,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,RB Leipzig,,,,Freiburg,,Red Bull Arena,,Head-to-Head,,2025
+8.0,Sat,2024-10-26,,Heidenheim,,,,Hoffenheim,,Voith-Arena,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Hoffenheim,,,,St. Pauli,,PreZero Arena,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Wolfsburg,,,,Augsburg,,Volkswagen Arena,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Bayern Munich,,,,Union Berlin,,Allianz Arena,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Dortmund,,,,RB Leipzig,,Signal Iduna Park,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Freiburg,,,,Mainz 05,,Europa-Park Stadion,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Holstein Kiel,,,,Heidenheim,,Holstein-Stadion,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Gladbach,,,,Werder Bremen,,Stadion im Borussia-Park,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Leverkusen,,,,Stuttgart,,BayArena,,Head-to-Head,,2025
+9.0,Sat,2024-11-02,,Eint Frankfurt,,,,Bochum,,Deutsche Bank Park,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Union Berlin,,,,Freiburg,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,St. Pauli,,,,Bayern Munich,,Millerntor-Stadion,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Stuttgart,,,,Eint Frankfurt,,MHPArena,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Heidenheim,,,,Wolfsburg,,Voith-Arena,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Bochum,,,,Leverkusen,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Werder Bremen,,,,Holstein Kiel,,Weserstadion,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,RB Leipzig,,,,Gladbach,,Red Bull Arena,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Augsburg,,,,Hoffenheim,,WWK Arena,,Head-to-Head,,2025
+10.0,Sat,2024-11-09,,Mainz 05,,,,Dortmund,,Mewa Arena,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Wolfsburg,,,,Union Berlin,,Volkswagen Arena,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Leverkusen,,,,Heidenheim,,BayArena,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Dortmund,,,,Freiburg,,Signal Iduna Park,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Bayern Munich,,,,Augsburg,,Allianz Arena,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Stuttgart,,,,Bochum,,MHPArena,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Gladbach,,,,St. Pauli,,Stadion im Borussia-Park,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Eint Frankfurt,,,,Werder Bremen,,Deutsche Bank Park,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Hoffenheim,,,,RB Leipzig,,PreZero Arena,,Head-to-Head,,2025
+11.0,Sat,2024-11-23,,Holstein Kiel,,,,Mainz 05,,Holstein-Stadion,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Heidenheim,,,,Eint Frankfurt,,Voith-Arena,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Mainz 05,,,,Hoffenheim,,Mewa Arena,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Union Berlin,,,,Leverkusen,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Freiburg,,,,Gladbach,,Europa-Park Stadion,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,St. Pauli,,,,Holstein Kiel,,Millerntor-Stadion,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Werder Bremen,,,,Stuttgart,,Weserstadion,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Dortmund,,,,Bayern Munich,,Signal Iduna Park,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,RB Leipzig,,,,Wolfsburg,,Red Bull Arena,,Head-to-Head,,2025
+12.0,Sat,2024-11-30,,Augsburg,,,,Bochum,,WWK Arena,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Leverkusen,,,,St. Pauli,,BayArena,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Hoffenheim,,,,Freiburg,,PreZero Arena,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Stuttgart,,,,Union Berlin,,MHPArena,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Eint Frankfurt,,,,Augsburg,,Deutsche Bank Park,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Wolfsburg,,,,Mainz 05,,Volkswagen Arena,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Holstein Kiel,,,,RB Leipzig,,Holstein-Stadion,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Bochum,,,,Werder Bremen,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Gladbach,,,,Dortmund,,Stadion im Borussia-Park,,Head-to-Head,,2025
+13.0,Sat,2024-12-07,,Bayern Munich,,,,Heidenheim,,Allianz Arena,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Union Berlin,,,,Bochum,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Freiburg,,,,Wolfsburg,,Europa-Park Stadion,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Heidenheim,,,,Stuttgart,,Voith-Arena,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,RB Leipzig,,,,Eint Frankfurt,,Red Bull Arena,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Gladbach,,,,Holstein Kiel,,Stadion im Borussia-Park,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Augsburg,,,,Leverkusen,,WWK Arena,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Dortmund,,,,Hoffenheim,,Signal Iduna Park,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,Mainz 05,,,,Bayern Munich,,Mewa Arena,,Head-to-Head,,2025
+14.0,Sat,2024-12-14,,St. Pauli,,,,Werder Bremen,,Millerntor-Stadion,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Hoffenheim,,,,Gladbach,,PreZero Arena,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Eint Frankfurt,,,,Mainz 05,,Deutsche Bank Park,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Werder Bremen,,,,Union Berlin,,Weserstadion,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Stuttgart,,,,St. Pauli,,MHPArena,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Wolfsburg,,,,Dortmund,,Volkswagen Arena,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Holstein Kiel,,,,Augsburg,,Holstein-Stadion,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Leverkusen,,,,Freiburg,,BayArena,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Bochum,,,,Heidenheim,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+15.0,Sat,2024-12-21,,Bayern Munich,,,,RB Leipzig,,Allianz Arena,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Mainz 05,,,,Bochum,,Mewa Arena,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Freiburg,,,,Holstein Kiel,,Europa-Park Stadion,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Dortmund,,,,Leverkusen,,Signal Iduna Park,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Hoffenheim,,,,Wolfsburg,,PreZero Arena,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,St. Pauli,,,,Eint Frankfurt,,Millerntor-Stadion,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Gladbach,,,,Bayern Munich,,Stadion im Borussia-Park,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,RB Leipzig,,,,Werder Bremen,,Red Bull Arena,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Augsburg,,,,Stuttgart,,WWK Arena,,Head-to-Head,,2025
+16.0,Sat,2025-01-11,,Heidenheim,,,,Union Berlin,,Voith-Arena,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Stuttgart,,,,RB Leipzig,,MHPArena,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Holstein Kiel,,,,Dortmund,,Holstein-Stadion,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Bochum,,,,St. Pauli,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Wolfsburg,,,,Gladbach,,Volkswagen Arena,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Bayern Munich,,,,Hoffenheim,,Allianz Arena,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Werder Bremen,,,,Heidenheim,,Weserstadion,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Eint Frankfurt,,,,Freiburg,,Deutsche Bank Park,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Leverkusen,,,,Mainz 05,,BayArena,,Head-to-Head,,2025
+17.0,Wed,2025-01-15,,Union Berlin,,,,Augsburg,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Eint Frankfurt,,,,Dortmund,,Deutsche Bank Park,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Bayern Munich,,,,Wolfsburg,,Allianz Arena,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Werder Bremen,,,,Augsburg,,Weserstadion,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Heidenheim,,,,St. Pauli,,Voith-Arena,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Leverkusen,,,,Gladbach,,BayArena,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Union Berlin,,,,Mainz 05,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Stuttgart,,,,Freiburg,,MHPArena,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Bochum,,,,RB Leipzig,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+18.0,Sat,2025-01-18,,Holstein Kiel,,,,Hoffenheim,,Holstein-Stadion,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Dortmund,,,,Werder Bremen,,Signal Iduna Park,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Mainz 05,,,,Stuttgart,,Mewa Arena,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Hoffenheim,,,,Eint Frankfurt,,PreZero Arena,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,St. Pauli,,,,Union Berlin,,Millerntor-Stadion,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Augsburg,,,,Heidenheim,,WWK Arena,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,RB Leipzig,,,,Leverkusen,,Red Bull Arena,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Gladbach,,,,Bochum,,Stadion im Borussia-Park,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Freiburg,,,,Bayern Munich,,Europa-Park Stadion,,Head-to-Head,,2025
+19.0,Sat,2025-01-25,,Wolfsburg,,,,Holstein Kiel,,Volkswagen Arena,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Stuttgart,,,,Gladbach,,MHPArena,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Eint Frankfurt,,,,Wolfsburg,,Deutsche Bank Park,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Heidenheim,,,,Dortmund,,Voith-Arena,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Bayern Munich,,,,Holstein Kiel,,Allianz Arena,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Werder Bremen,,,,Mainz 05,,Weserstadion,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Union Berlin,,,,RB Leipzig,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,St. Pauli,,,,Augsburg,,Millerntor-Stadion,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Leverkusen,,,,Hoffenheim,,BayArena,,Head-to-Head,,2025
+20.0,Sat,2025-02-01,,Bochum,,,,Freiburg,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Freiburg,,,,Heidenheim,,Europa-Park Stadion,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Dortmund,,,,Stuttgart,,Signal Iduna Park,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Holstein Kiel,,,,Bochum,,Holstein-Stadion,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,RB Leipzig,,,,St. Pauli,,Red Bull Arena,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Wolfsburg,,,,Leverkusen,,Volkswagen Arena,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Gladbach,,,,Eint Frankfurt,,Stadion im Borussia-Park,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Hoffenheim,,,,Union Berlin,,PreZero Arena,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Mainz 05,,,,Augsburg,,Mewa Arena,,Head-to-Head,,2025
+21.0,Sat,2025-02-08,,Bayern Munich,,,,Werder Bremen,,Allianz Arena,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Bochum,,,,Dortmund,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Augsburg,,,,RB Leipzig,,WWK Arena,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Leverkusen,,,,Bayern Munich,,BayArena,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Union Berlin,,,,Gladbach,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,St. Pauli,,,,Freiburg,,Millerntor-Stadion,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Eint Frankfurt,,,,Holstein Kiel,,Deutsche Bank Park,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Stuttgart,,,,Wolfsburg,,MHPArena,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Werder Bremen,,,,Hoffenheim,,Weserstadion,,Head-to-Head,,2025
+22.0,Sat,2025-02-15,,Heidenheim,,,,Mainz 05,,Voith-Arena,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Hoffenheim,,,,Stuttgart,,PreZero Arena,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Freiburg,,,,Werder Bremen,,Europa-Park Stadion,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Gladbach,,,,Augsburg,,Stadion im Borussia-Park,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Dortmund,,,,Union Berlin,,Signal Iduna Park,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,RB Leipzig,,,,Heidenheim,,Red Bull Arena,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Holstein Kiel,,,,Leverkusen,,Holstein-Stadion,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Bayern Munich,,,,Eint Frankfurt,,Allianz Arena,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Mainz 05,,,,St. Pauli,,Mewa Arena,,Head-to-Head,,2025
+23.0,Sat,2025-02-22,,Wolfsburg,,,,Bochum,,Volkswagen Arena,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Stuttgart,,,,Bayern Munich,,MHPArena,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Eint Frankfurt,,,,Leverkusen,,Deutsche Bank Park,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Werder Bremen,,,,Wolfsburg,,Weserstadion,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Bochum,,,,Hoffenheim,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Augsburg,,,,Freiburg,,WWK Arena,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Heidenheim,,,,Gladbach,,Voith-Arena,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,RB Leipzig,,,,Mainz 05,,Red Bull Arena,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,St. Pauli,,,,Dortmund,,Millerntor-Stadion,,Head-to-Head,,2025
+24.0,Sat,2025-03-01,,Union Berlin,,,,Holstein Kiel,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Freiburg,,,,RB Leipzig,,Europa-Park Stadion,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Wolfsburg,,,,St. Pauli,,Volkswagen Arena,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Dortmund,,,,Augsburg,,Signal Iduna Park,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Holstein Kiel,,,,Stuttgart,,Holstein-Stadion,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Leverkusen,,,,Werder Bremen,,BayArena,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Gladbach,,,,Mainz 05,,Stadion im Borussia-Park,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Eint Frankfurt,,,,Union Berlin,,Deutsche Bank Park,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Bayern Munich,,,,Bochum,,Allianz Arena,,Head-to-Head,,2025
+25.0,Sat,2025-03-08,,Hoffenheim,,,,Heidenheim,,PreZero Arena,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Augsburg,,,,Wolfsburg,,WWK Arena,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,St. Pauli,,,,Hoffenheim,,Millerntor-Stadion,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Union Berlin,,,,Bayern Munich,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,RB Leipzig,,,,Dortmund,,Red Bull Arena,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Mainz 05,,,,Freiburg,,Mewa Arena,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Bochum,,,,Eint Frankfurt,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Heidenheim,,,,Holstein Kiel,,Voith-Arena,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Werder Bremen,,,,Gladbach,,Weserstadion,,Head-to-Head,,2025
+26.0,Sat,2025-03-15,,Stuttgart,,,,Leverkusen,,MHPArena,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Dortmund,,,,Mainz 05,,Signal Iduna Park,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Bayern Munich,,,,St. Pauli,,Allianz Arena,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Wolfsburg,,,,Heidenheim,,Volkswagen Arena,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Holstein Kiel,,,,Werder Bremen,,Holstein-Stadion,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Hoffenheim,,,,Augsburg,,PreZero Arena,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Leverkusen,,,,Bochum,,BayArena,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Gladbach,,,,RB Leipzig,,Stadion im Borussia-Park,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Eint Frankfurt,,,,Stuttgart,,Deutsche Bank Park,,Head-to-Head,,2025
+27.0,Sat,2025-03-29,,Freiburg,,,,Union Berlin,,Europa-Park Stadion,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Heidenheim,,,,Leverkusen,,Voith-Arena,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Werder Bremen,,,,Eint Frankfurt,,Weserstadion,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Union Berlin,,,,Wolfsburg,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,RB Leipzig,,,,Hoffenheim,,Red Bull Arena,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,St. Pauli,,,,Gladbach,,Millerntor-Stadion,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Freiburg,,,,Dortmund,,Europa-Park Stadion,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Augsburg,,,,Bayern Munich,,WWK Arena,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Bochum,,,,Stuttgart,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+28.0,Sat,2025-04-05,,Mainz 05,,,,Holstein Kiel,,Mewa Arena,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Leverkusen,,,,Union Berlin,,BayArena,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Wolfsburg,,,,RB Leipzig,,Volkswagen Arena,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Hoffenheim,,,,Mainz 05,,PreZero Arena,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Bayern Munich,,,,Dortmund,,Allianz Arena,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Eint Frankfurt,,,,Heidenheim,,Deutsche Bank Park,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Gladbach,,,,Freiburg,,Stadion im Borussia-Park,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Bochum,,,,Augsburg,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Holstein Kiel,,,,St. Pauli,,Holstein-Stadion,,Head-to-Head,,2025
+29.0,Sat,2025-04-12,,Stuttgart,,,,Werder Bremen,,MHPArena,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,RB Leipzig,,,,Holstein Kiel,,Red Bull Arena,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Heidenheim,,,,Bayern Munich,,Voith-Arena,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Freiburg,,,,Hoffenheim,,Europa-Park Stadion,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Union Berlin,,,,Stuttgart,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,St. Pauli,,,,Leverkusen,,Millerntor-Stadion,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Werder Bremen,,,,Bochum,,Weserstadion,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Dortmund,,,,Gladbach,,Signal Iduna Park,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Augsburg,,,,Eint Frankfurt,,WWK Arena,,Head-to-Head,,2025
+30.0,Sat,2025-04-19,,Mainz 05,,,,Wolfsburg,,Mewa Arena,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Werder Bremen,,,,St. Pauli,,Weserstadion,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Stuttgart,,,,Heidenheim,,MHPArena,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Bochum,,,,Union Berlin,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Holstein Kiel,,,,Gladbach,,Holstein-Stadion,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Eint Frankfurt,,,,RB Leipzig,,Deutsche Bank Park,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Hoffenheim,,,,Dortmund,,PreZero Arena,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Bayern Munich,,,,Mainz 05,,Allianz Arena,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Wolfsburg,,,,Freiburg,,Volkswagen Arena,,Head-to-Head,,2025
+31.0,Sat,2025-04-26,,Leverkusen,,,,Augsburg,,BayArena,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Union Berlin,,,,Werder Bremen,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,RB Leipzig,,,,Bayern Munich,,Red Bull Arena,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Mainz 05,,,,Eint Frankfurt,,Mewa Arena,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Gladbach,,,,Hoffenheim,,Stadion im Borussia-Park,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,St. Pauli,,,,Stuttgart,,Millerntor-Stadion,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Freiburg,,,,Leverkusen,,Europa-Park Stadion,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Heidenheim,,,,Bochum,,Voith-Arena,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Augsburg,,,,Holstein Kiel,,WWK Arena,,Head-to-Head,,2025
+32.0,Sat,2025-05-03,,Dortmund,,,,Wolfsburg,,Signal Iduna Park,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Eint Frankfurt,,,,St. Pauli,,Deutsche Bank Park,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Holstein Kiel,,,,Freiburg,,Holstein-Stadion,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Bochum,,,,Mainz 05,,Vonovia Ruhrstadion,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Wolfsburg,,,,Hoffenheim,,Volkswagen Arena,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Union Berlin,,,,Heidenheim,,Stadion An der Alten Försterei,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Werder Bremen,,,,RB Leipzig,,Weserstadion,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Bayern Munich,,,,Gladbach,,Allianz Arena,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Leverkusen,,,,Dortmund,,BayArena,,Head-to-Head,,2025
+33.0,Sat,2025-05-10,,Stuttgart,,,,Augsburg,,MHPArena,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Hoffenheim,,,,Bayern Munich,,PreZero Arena,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Dortmund,,,,Holstein Kiel,,Signal Iduna Park,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Mainz 05,,,,Leverkusen,,Mewa Arena,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Augsburg,,,,Union Berlin,,WWK Arena,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Heidenheim,,,,Werder Bremen,,Voith-Arena,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Gladbach,,,,Wolfsburg,,Stadion im Borussia-Park,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,Freiburg,,,,Eint Frankfurt,,Europa-Park Stadion,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,RB Leipzig,,,,Stuttgart,,Red Bull Arena,,Head-to-Head,,2025
+34.0,Sat,2025-05-17,15:30,St. Pauli,,,,Bochum,,Millerntor-Stadion,,Head-to-Head,,2025

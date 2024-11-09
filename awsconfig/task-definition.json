@@ -1,0 +1,45 @@
+{
+  "family": "webscraping-task",
+  "networkMode": "awsvpc",
+  "containerDefinitions": [
+    {
+      "name": "webscraping-container",
+      "image": "084350708838.dkr.ecr.eu-central-1.amazonaws.com/bundesliga_fargate:test",
+      "cpu": 1024,
+      "memory": 2048,
+      "portMappings": [],
+      "essential": true,
+      "environment": [
+        {
+          "name": "GCLOUD_PROJECT",
+          "value": "footbalprediction-414107"
+        }
+      ],
+      "mountPoints": [],
+      "volumesFrom": [],
+      "secrets": [
+        {
+          "name": "GOOGLE_APPLICATION_CREDENTIALS",
+          "valueFrom": "arn:aws:secretsmanager:eu-central-1:084350708838:secret:GOOGLE_APPLICATION_CREDENTIALS-gPWSsa"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/webscraping",
+          "awslogs-create-group": "true",
+          "awslogs-region": "eu-central-1",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "systemControls": []
+    }
+  ],
+  "executionRoleArn": "arn:aws:iam::084350708838:role/bundesliga-ecs-execution-role",
+  "taskRoleArn": "arn:aws:iam::084350708838:role/ECS_Task_Role",
+  "requiresCompatibilities": [
+    "FARGATE"
+  ],
+  "cpu": "1024",
+  "memory": "2048"
+}
